@@ -20,7 +20,7 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 4 projects (Web scr
 - Built functions such as page_parser, scrape_site to scrape athletes name, rank, venue, position etc
 - Stored data consisting of 100 rows x 11 columns and into top_100_athlete_2017.csv using Pandas
 
-#### SQL Mini-Project ([View]())
+#### SQL Mini-Project ([View](https://github.com/thoufiqz55/SQL_mini-project/blob/main/sql_practice_assignment.ipynb))
 
 - Worked on the dataset called “Chinook Database Structure” containing 11 tables
 - Used DDL, DCL, and DML statements to create joins, select query statements for insights
