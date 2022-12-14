@@ -27,10 +27,10 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 4 projects (Web scr
 - Listed artist details, average tracks per album by performing joins on the tables Albums & Tracks.
 
 
-- 🔭 I’m currently working on Machine Learning
+🔭 I’m currently working on Machine Learning
 
-- 🌱 I’m currently learning Deep Learning
+🌱 I’m currently learning Deep Learning
 
-- 💬 Ask me about MySql, EDA, Python, Statistics, Machine Learning
+💬 Ask me about MySql, EDA, Python, Statistics, Machine Learning
 
-- 📫 How to reach me: zthoufiqz55@gmail.com
+📫 How to reach me: zthoufiqz55@gmail.com
