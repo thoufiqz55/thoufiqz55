@@ -27,6 +27,12 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 4 projects (Web scr
 - Listed artist details, average tracks per album by performing joins on the tables Albums & Tracks.
 
 
+
+
+<img src="https://i.imgur.com/ShYXk39.jpg" alt="Twitter"/>
+<a href="https://github.com/thoufiqz55/EDA">
+
+
 🔭 I’m currently working on Machine Learning
 
 🌱 I’m currently learning Deep Learning
