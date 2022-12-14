@@ -29,8 +29,7 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 4 projects (Web scr
 
 
 
-<img src="https://i.imgur.com/ShYXk39.jpg" alt="Twitter"/>
-<a href="https://github.com/thoufiqz55/EDA">
+<a href="https://twitter.com/thoufiq_ahmad3"><img src="https://i.imgur.com/chEhIRG.jpeg" alt="Twitter" width="60" height="60"/>
 
 
 🔭 I’m currently working on Machine Learning
