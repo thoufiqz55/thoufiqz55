@@ -32,7 +32,6 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 4 projects (Web scr
 <a href="https://twitter.com/thoufiq_ahmad3"><img src="https://i.imgur.com/chEhIRG.jpeg" alt="Twitter" width="60" height="60"/><a href="http://linkedin.com/in/thoufiq-ahmad-b592b11a5/"><img src="https://i.imgur.com/nvjajw7.png" alt="LinkedIN" width="60" height="60"/>
   
 
-
 🔭 I’m currently working on Machine Learning
 
 🌱 I’m currently learning Deep Learning
@@ -44,3 +43,7 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 4 projects (Web scr
 ### Languages and Tools:
   
  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://i.imgur.com/7S59brW.png" alt="Python" width="60" height="60"/><a href="https://en.wikipedia.org/wiki/NumPy"><img src="https://i.imgur.com/oh7h6Kp.png" alt="NumPy" width="60" height="60"/><a href="https://en.wikipedia.org/wiki/Pandas_(software)"><img src="https://i.imgur.com/1XqLBYk.png" alt="Pandas" width="60" height="60"/><a href="https://en.wikipedia.org/wiki/Tableau_Software"><img src="https://i.imgur.com/ALleNn9.png" alt="Tableau" width="60" height="60"/><a href="https://en.wikipedia.org/wiki/MySQL"><img src="https://i.imgur.com/dfxjCGR.jpeg" alt="MySQL" width="60" height="60"/><a href="https://en.wikipedia.org/wiki/Microsoft_Excel"><img src="https://i.imgur.com/F7qyA6z.png" alt="MS_Excel" width="60" height="60"/><a href="https://en.wikipedia.org/wiki/Scikit-learn"><img src="https://i.imgur.com/GUnoVC6.png" alt="SKLearn" width="60" height="60"/><a href="https://en.wikipedia.org/wiki/TensorFlow"><img src="https://i.imgur.com/tnxwkTY.jpeg" alt="TensorFlow" width="60" height="60"/>
+   
+[![Thoufiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=thoufiqz55&show_icons=true&theme=dark)](https://github.com/thoufiqz55/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thoufiqz55&show_icons=true&theme=dark&layout=compact)](https://github.com/thoufiqz55/github-readme-stats)
