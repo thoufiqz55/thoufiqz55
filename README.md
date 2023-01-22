@@ -8,6 +8,12 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 4 projects (Web scr
 
 ### My Projects:
 
+#### Machine Learning to Predict if a car purchased at auction is a lemon ([View](https://jovian.com/zthoufiqz55/dont-get-kicked))
+
+- Cleaned & analyzed Don’t get Kicked dataset with 73k rows and 34 columns to predict Bad Buy
+- Trained Logistic models, random forests, decision tree using scikit learn
+- RandomForestClassifier performed better accuracy and with hyperparameter tuning achieved 89% on the validation dataset.
+
 #### Exploratory Data Analysis on FIFA 2022 World Cup Using Python: ([View](https://github.com/thoufiqz55/EDA))
 
 - Worked with FIFA 2022 dataset from Kaggle containing 23,921 Entries across 25 Features
