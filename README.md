@@ -1,10 +1,9 @@
 ## Hi 👋 I am Thoufiq from India.
 
-### I have completed:
+### BIO:
 
-Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
-
-Highlights: 600+ hours of coursework, 10 coding assignments, 4 projects (Web scraping, EDA, Tableau, SQL)
+Experienced Data Science Instructor/Mentor with over 3 years in the field, specializing in Machine Learning, Deep Learning, Data Analytics & Artificial Intelligence. Completed Bachelors degree in Computer Applications from University of Mysore. 
+Proficient in Python and SQL, i have skilled in using tools like TensorFlow, Scikit-Learn, Keras , PyTorch etc. As a dedicated mentor ,i am focusing on career development and hands-on learning, helping aspiring data scientists achieve their goals.
 
 ### My Projects:
 
