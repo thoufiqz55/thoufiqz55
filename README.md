@@ -2,7 +2,7 @@
 
 ### BIO:
 
-Experienced Data Science Instructor/Mentor with over 3 years in the field, specializing in Machine Learning, Deep Learning, Data Analytics & Artificial Intelligence. Completed Bachelors degree in Computer Applications from University of Mysore. 
+Experienced Data Science Instructor/Mentor with over 4 years in the field, specializing in Machine Learning, Deep Learning, Data Analytics & Artificial Intelligence. Completed Bachelors degree in Computer Applications from University of Mysore. 
 Proficient in Python and SQL, i have skilled in using tools like TensorFlow, Scikit-Learn, Keras , PyTorch etc. As a dedicated mentor ,i am focusing on career development and hands-on learning, helping aspiring data scientists achieve their goals.
 
 ### My Projects:
@@ -37,9 +37,7 @@ Proficient in Python and SQL, i have skilled in using tools like TensorFlow, Sci
 <a href="https://twitter.com/thoufiq_ahmad3"><img src="https://i.imgur.com/chEhIRG.jpeg" alt="Twitter" width="60" height="60"/><a href="http://linkedin.com/in/thoufiq-ahmad-b592b11a5/"><img src="https://i.imgur.com/nvjajw7.png" alt="LinkedIN" width="60" height="60"/>
   
 
-🔭 I’m currently working on Machine Learning
-
-🌱 I’m currently learning Deep Learning
+🔭 I’m currently working on Machine Learning & Artificial Intelligence
 
 💬 Ask me about MySql, EDA, Python, Statistics, Machine Learning
 
